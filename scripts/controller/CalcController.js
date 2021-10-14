@@ -14,6 +14,8 @@ class CalcController {
         let timeEl = document.querySelector("#hora");
 
         displayCalcEl.innerHTML = "123";
+        timeEl.innerHTML = "16:56";
+        dateEl.innerHTML = "14/10/2021";
 
     }
 
